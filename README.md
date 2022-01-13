@@ -3,11 +3,11 @@
   <img align="right" src="https://github-readme-stats-azmiao.vercel.app/api?username=ghzhan&theme=buefy&show_icons=true&count_private=true" />
 </a>
 
->你好呀！这是我的Github首页
+>页
 
->我会在这里记录自己学习的历程
+>记录
 
->以及一些有趣的代码
+>代码
 
 >😋
 
