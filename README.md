@@ -25,8 +25,4 @@
 
 
 
-![这是访问量，显示不出来记得刷新几下](https://visitor-badge.glitch.me/badge?page_id=ghzhan)
-
-
-
 ----
